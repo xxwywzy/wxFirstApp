@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+    <input bindinput="bindKeyInput" placeholder='{{hint}}'/>
+    <navigator url="/pages/message/message?title={{inputValue}}">
+        <button>{{buttonInfo}}</button>
+    </navigator>    
+</view>

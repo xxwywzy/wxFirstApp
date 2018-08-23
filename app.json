@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/message/message"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#651FFF",
+    "navigationBarTitleText": "My First App",
+    "navigationBarTextStyle":"white"
+  }
+}
